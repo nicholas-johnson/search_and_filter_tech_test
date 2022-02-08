@@ -1,0 +1,13 @@
+Component Hierarchy
+  App
+    Sidebar
+      Hierarchy
+      Spending Filter
+    ResultList
+      Result
+
+Things they will care about
+  Correct use of hooks
+  Correct use of keys
+  Sensible one way data flow
+  Debounce

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "app-1",
+    "name": "App 1",
+    "spend": 29822,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.3"
+  },
+  {
+    "id": "app-2",
+    "name": "App 2",
+    "spend": 38285,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.1"
+  },
+  {
+    "id": "app-3",
+    "name": "App 3",
+    "spend": 29071,
+    "category1": "category 3",
+    "category2": "category 3.3",
+    "category3": "category 3.3.1"
+  },
+  {
+    "id": "app-4",
+    "name": "App 4",
+    "spend": 26191,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.3"
+  },
+  {
+    "id": "app-5",
+    "name": "App 5",
+    "spend": 59416,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.1"
+  },
+  {
+    "id": "app-6",
+    "name": "App 6",
+    "spend": 63950,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.1"
+  },
+  {
+    "id": "app-7",
+    "name": "App 7",
+    "spend": 50599,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.2"
+  },
+  {
+    "id": "app-8",
+    "name": "App 8",
+    "spend": 56205,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.2"
+  },
+  {
+    "id": "app-9",
+    "name": "App 9",
+    "spend": 64792,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.1"
+  },
+  {
+    "id": "app-10",
+    "name": "App 10",
+    "spend": 35651,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.2"
+  },
+  {
+    "id": "app-11",
+    "name": "App 11",
+    "spend": 1251,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.2"
+  },
+  {
+    "id": "app-12",
+    "name": "App 12",
+    "spend": 9645,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.1"
+  },
+  {
+    "id": "app-13",
+    "name": "App 13",
+    "spend": 46291,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.2"
+  },
+  {
+    "id": "app-14",
+    "name": "App 14",
+    "spend": 41185,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.3"
+  },
+  {
+    "id": "app-15",
+    "name": "App 15",
+    "spend": 23476,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.2"
+  },
+  {
+    "id": "app-16",
+    "name": "App 16",
+    "spend": 73352,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.2"
+  },
+  {
+    "id": "app-17",
+    "name": "App 17",
+    "spend": 32520,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.3"
+  },
+  {
+    "id": "app-18",
+    "name": "App 18",
+    "spend": 26485,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.3"
+  },
+  {
+    "id": "app-19",
+    "name": "App 19",
+    "spend": 8060,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.1"
+  },
+  {
+    "id": "app-20",
+    "name": "App 20",
+    "spend": 24402,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.3"
+  },
+  {
+    "id": "app-21",
+    "name": "App 21",
+    "spend": 27024,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.2"
+  },
+  {
+    "id": "app-22",
+    "name": "App 22",
+    "spend": 66442,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.1"
+  },
+  {
+    "id": "app-23",
+    "name": "App 23",
+    "spend": 4693,
+    "category1": "category 3",
+    "category2": "category 3.3",
+    "category3": "category 3.3.1"
+  },
+  {
+    "id": "app-24",
+    "name": "App 24",
+    "spend": 39946,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.2"
+  },
+  {
+    "id": "app-25",
+    "name": "App 25",
+    "spend": 9071,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.2"
+  },
+  {
+    "id": "app-26",
+    "name": "App 26",
+    "spend": 74750,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.2"
+  },
+  {
+    "id": "app-27",
+    "name": "App 27",
+    "spend": 82017,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.2"
+  },
+  {
+    "id": "app-28",
+    "name": "App 28",
+    "spend": 89818,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.2"
+  },
+  {
+    "id": "app-29",
+    "name": "App 29",
+    "spend": 31540,
+    "category1": "category 3",
+    "category2": "category 3.1",
+    "category3": "category 3.1.2"
+  },
+  {
+    "id": "app-30",
+    "name": "App 30",
+    "spend": 66748,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.2"
+  },
+  {
+    "id": "app-31",
+    "name": "App 31",
+    "spend": 81209,
+    "category1": "category 3",
+    "category2": "category 3.3",
+    "category3": "category 3.3.1"
+  },
+  {
+    "id": "app-32",
+    "name": "App 32",
+    "spend": 28839,
+    "category1": "category 3",
+    "category2": "category 3.3",
+    "category3": "category 3.3.2"
+  },
+  {
+    "id": "app-33",
+    "name": "App 33",
+    "spend": 67481,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.3"
+  },
+  {
+    "id": "app-34",
+    "name": "App 34",
+    "spend": 4847,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.3"
+  },
+  {
+    "id": "app-35",
+    "name": "App 35",
+    "spend": 77331,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.2"
+  },
+  {
+    "id": "app-36",
+    "name": "App 36",
+    "spend": 7863,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.2"
+  },
+  {
+    "id": "app-37",
+    "name": "App 37",
+    "spend": 17376,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.2"
+  },
+  {
+    "id": "app-38",
+    "name": "App 38",
+    "spend": 71207,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.2"
+  },
+  {
+    "id": "app-39",
+    "name": "App 39",
+    "spend": 60717,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.3"
+  },
+  {
+    "id": "app-40",
+    "name": "App 40",
+    "spend": 72277,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.3"
+  },
+  {
+    "id": "app-41",
+    "name": "App 41",
+    "spend": 43115,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.1"
+  },
+  {
+    "id": "app-42",
+    "name": "App 42",
+    "spend": 82729,
+    "category1": "category 3",
+    "category2": "category 3.1",
+    "category3": "category 3.1.3"
+  },
+  {
+    "id": "app-43",
+    "name": "App 43",
+    "spend": 66208,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.1"
+  },
+  {
+    "id": "app-44",
+    "name": "App 44",
+    "spend": 88385,
+    "category1": "category 3",
+    "category2": "category 3.1",
+    "category3": "category 3.1.2"
+  },
+  {
+    "id": "app-45",
+    "name": "App 45",
+    "spend": 40499,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.1"
+  },
+  {
+    "id": "app-46",
+    "name": "App 46",
+    "spend": 65804,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.1"
+  },
+  {
+    "id": "app-47",
+    "name": "App 47",
+    "spend": 39022,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.2"
+  },
+  {
+    "id": "app-48",
+    "name": "App 48",
+    "spend": 5059,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.1"
+  },
+  {
+    "id": "app-49",
+    "name": "App 49",
+    "spend": 75736,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.1"
+  },
+  {
+    "id": "app-50",
+    "name": "App 50",
+    "spend": 38768,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.3"
+  },
+  {
+    "id": "app-51",
+    "name": "App 51",
+    "spend": 58379,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.3"
+  },
+  {
+    "id": "app-52",
+    "name": "App 52",
+    "spend": 44586,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.2"
+  },
+  {
+    "id": "app-53",
+    "name": "App 53",
+    "spend": 15813,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.1"
+  },
+  {
+    "id": "app-54",
+    "name": "App 54",
+    "spend": 61119,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.3"
+  },
+  {
+    "id": "app-55",
+    "name": "App 55",
+    "spend": 27170,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.3"
+  },
+  {
+    "id": "app-56",
+    "name": "App 56",
+    "spend": 25212,
+    "category1": "category 3",
+    "category2": "category 3.1",
+    "category3": "category 3.1.3"
+  },
+  {
+    "id": "app-57",
+    "name": "App 57",
+    "spend": 25590,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.3"
+  },
+  {
+    "id": "app-58",
+    "name": "App 58",
+    "spend": 44933,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.2"
+  },
+  {
+    "id": "app-59",
+    "name": "App 59",
+    "spend": 27226,
+    "category1": "category 3",
+    "category2": "category 3.1",
+    "category3": "category 3.1.3"
+  },
+  {
+    "id": "app-60",
+    "name": "App 60",
+    "spend": 6198,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.1"
+  },
+  {
+    "id": "app-61",
+    "name": "App 61",
+    "spend": 1926,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.3"
+  },
+  {
+    "id": "app-62",
+    "name": "App 62",
+    "spend": 39549,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.3"
+  },
+  {
+    "id": "app-63",
+    "name": "App 63",
+    "spend": 50984,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.1"
+  },
+  {
+    "id": "app-64",
+    "name": "App 64",
+    "spend": 10347,
+    "category1": "category 3",
+    "category2": "category 3.3",
+    "category3": "category 3.3.1"
+  },
+  {
+    "id": "app-65",
+    "name": "App 65",
+    "spend": 55492,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.2"
+  },
+  {
+    "id": "app-66",
+    "name": "App 66",
+    "spend": 47099,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.2"
+  },
+  {
+    "id": "app-67",
+    "name": "App 67",
+    "spend": 48130,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.1"
+  },
+  {
+    "id": "app-68",
+    "name": "App 68",
+    "spend": 62817,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.2"
+  },
+  {
+    "id": "app-69",
+    "name": "App 69",
+    "spend": 26648,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.2"
+  },
+  {
+    "id": "app-70",
+    "name": "App 70",
+    "spend": 24587,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.2"
+  },
+  {
+    "id": "app-71",
+    "name": "App 71",
+    "spend": 18282,
+    "category1": "category 3",
+    "category2": "category 3.1",
+    "category3": "category 3.1.2"
+  },
+  {
+    "id": "app-72",
+    "name": "App 72",
+    "spend": 52021,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.3"
+  },
+  {
+    "id": "app-73",
+    "name": "App 73",
+    "spend": 5580,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.3"
+  },
+  {
+    "id": "app-74",
+    "name": "App 74",
+    "spend": 89492,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.3"
+  },
+  {
+    "id": "app-75",
+    "name": "App 75",
+    "spend": 19845,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.3"
+  },
+  {
+    "id": "app-76",
+    "name": "App 76",
+    "spend": 50033,
+    "category1": "category 1",
+    "category2": "category 1.1",
+    "category3": "category 1.1.2"
+  },
+  {
+    "id": "app-77",
+    "name": "App 77",
+    "spend": 69870,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.3"
+  },
+  {
+    "id": "app-78",
+    "name": "App 78",
+    "spend": 40365,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.3"
+  },
+  {
+    "id": "app-79",
+    "name": "App 79",
+    "spend": 72830,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.3"
+  },
+  {
+    "id": "app-80",
+    "name": "App 80",
+    "spend": 68091,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.2"
+  },
+  {
+    "id": "app-81",
+    "name": "App 81",
+    "spend": 51671,
+    "category1": "category 3",
+    "category2": "category 3.3",
+    "category3": "category 3.3.1"
+  },
+  {
+    "id": "app-82",
+    "name": "App 82",
+    "spend": 50699,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.3"
+  },
+  {
+    "id": "app-83",
+    "name": "App 83",
+    "spend": 18340,
+    "category1": "category 3",
+    "category2": "category 3.3",
+    "category3": "category 3.3.1"
+  },
+  {
+    "id": "app-84",
+    "name": "App 84",
+    "spend": 42598,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.1"
+  },
+  {
+    "id": "app-85",
+    "name": "App 85",
+    "spend": 2946,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.1"
+  },
+  {
+    "id": "app-86",
+    "name": "App 86",
+    "spend": 6539,
+    "category1": "category 3",
+    "category2": "category 3.3",
+    "category3": "category 3.3.3"
+  },
+  {
+    "id": "app-87",
+    "name": "App 87",
+    "spend": 67620,
+    "category1": "category 1",
+    "category2": "category 1.3",
+    "category3": "category 1.3.2"
+  },
+  {
+    "id": "app-88",
+    "name": "App 88",
+    "spend": 35579,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.3"
+  },
+  {
+    "id": "app-89",
+    "name": "App 89",
+    "spend": 60506,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.1"
+  },
+  {
+    "id": "app-90",
+    "name": "App 90",
+    "spend": 7445,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.2"
+  },
+  {
+    "id": "app-91",
+    "name": "App 91",
+    "spend": 43580,
+    "category1": "category 3",
+    "category2": "category 3.1",
+    "category3": "category 3.1.1"
+  },
+  {
+    "id": "app-92",
+    "name": "App 92",
+    "spend": 89509,
+    "category1": "category 2",
+    "category2": "category 2.1",
+    "category3": "category 2.1.2"
+  },
+  {
+    "id": "app-93",
+    "name": "App 93",
+    "spend": 28565,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.3"
+  },
+  {
+    "id": "app-94",
+    "name": "App 94",
+    "spend": 24295,
+    "category1": "category 3",
+    "category2": "category 3.1",
+    "category3": "category 3.1.3"
+  },
+  {
+    "id": "app-95",
+    "name": "App 95",
+    "spend": 8873,
+    "category1": "category 2",
+    "category2": "category 2.2",
+    "category3": "category 2.2.3"
+  },
+  {
+    "id": "app-96",
+    "name": "App 96",
+    "spend": 17581,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.2"
+  },
+  {
+    "id": "app-97",
+    "name": "App 97",
+    "spend": 74357,
+    "category1": "category 2",
+    "category2": "category 2.3",
+    "category3": "category 2.3.1"
+  },
+  {
+    "id": "app-98",
+    "name": "App 98",
+    "spend": 39827,
+    "category1": "category 1",
+    "category2": "category 1.2",
+    "category3": "category 1.2.2"
+  },
+  {
+    "id": "app-99",
+    "name": "App 99",
+    "spend": 30633,
+    "category1": "category 3",
+    "category2": "category 3.2",
+    "category3": "category 3.2.1"
+  },
+  {
+    "id": "app-100",
+    "name": "App 100",
+    "spend": 39947,
+    "category1": "category 3",
+    "category2": "category 3.3",
+    "category3": "category 3.3.3"
+  }
+]

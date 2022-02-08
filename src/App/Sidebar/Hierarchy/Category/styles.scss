@@ -1,0 +1,14 @@
+.app-category {
+    margin: 0;
+    padding: 0;
+    border: none;
+    cursor: pointer;
+
+    &.selected {
+        font-weight: bold;
+    }
+
+    &:hover {
+        text-decoration: underline;
+    }
+}

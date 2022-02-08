@@ -1,0 +1,25 @@
+.app-result-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 1em;
+    height: 100vh;
+    overflow: auto;
+    align-items: flex-start;
+    row-gap: 1em;
+    column-gap: 1em;
+    align-content: flex-start;
+
+    ul,
+    li {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        min-width: 200px;
+        padding: 0.5em;
+    }
+}
